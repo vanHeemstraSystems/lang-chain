@@ -1,8 +1,8 @@
-儲存庫名稱
+郎鏈
 
-# 儲存庫名稱
+# 浪鏈
 
-> 斯拉格萊恩
+> 利用 LangChain 靈活的抽象化和人工智慧優先的工具包來建立上下文感知、推理應用程式。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -21,7 +21,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
