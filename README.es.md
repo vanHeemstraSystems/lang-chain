@@ -1,10 +1,10 @@
-nombre-repositorio
+cadena larga
 
-# Nombre del repositorio
+# LangChain
 
-> Slugline
+> Cree aplicaciones de razonamiento sensibles al contexto con las abstracciones flexibles y el conjunto de herramientas de IA de LangChain.
 
--   [Glossary](./GLOSSARY.md)
+-   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
 -   [Documentación](./DOCUMENTATION.md)
 -   [Telemetria](./TELEMETRY.md)
@@ -23,7 +23,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
