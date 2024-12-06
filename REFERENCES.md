@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [LangChain in GitHub](https://github.com/langchain-ai)
