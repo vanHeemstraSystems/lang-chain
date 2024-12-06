@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+lang-chain
+# LangChain
 
-> Slugline
+> Build context-aware, reasoning applications with LangChain’s flexible abstractions and AI-first toolkit.
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
