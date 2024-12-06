@@ -9,9 +9,9 @@ nom du référentiel
 -   [Documentation](./DOCUMENTATION.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
-Text
+Texte
 
 ## 100 - Introduction
 
@@ -21,7 +21,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
