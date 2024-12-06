@@ -1,8 +1,8 @@
-Repository-Name
+Langkette
 
-# Repository-Name
+# LangChain
 
-> Slugline
+> Erstellen Sie kontextbewusste, schlussfolgernde Anwendungen mit den flexiblen Abstraktionen und dem AI-First-Toolkit von LangChain.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
@@ -21,7 +21,7 @@ Sehen[README.md](./100/README.md)
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 
