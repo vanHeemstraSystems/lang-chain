@@ -1,8 +1,8 @@
-nom du référentiel
+chaîne de langage
 
-# Nom du référentiel
+# LangChaîne
 
-> Slugline
+> Créez des applications de raisonnement contextuelles avec les abstractions flexibles de LangChain et la boîte à outils axée sur l'IA.
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
