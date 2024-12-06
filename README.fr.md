@@ -9,7 +9,7 @@ nom du référentiel
 -   [Documentation](./DOCUMENTATION.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
 Texte
 
